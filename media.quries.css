@@ -1,0 +1,105 @@
+@media only screen and (max-width:1440px) {
+   header{
+    margin-right: 50px;
+   }
+ 
+    #image-para > img{
+        width: 430px;
+    }
+    #image-box{
+        width: 400px;
+    }
+    #box-1 > img{
+        width: 250px;
+        
+    }
+   
+ 
+    #box-2 > img{
+        width: 550px;
+    }
+   
+    #box-8-container{
+margin-right: -50px;
+       
+    }
+    #box-8 > img{
+        width: 250px;
+        height: 200px;
+    }
+    #detail-container{
+        width: 450px;
+
+    }
+    #para-detail > h1{
+        font-size: 20px;
+    }
+     #para-detail > p{
+        font-size: 10px;
+    }
+   
+    #para-p > p{
+        font-size: 13px;
+    }
+      #para-detail-two > h1{
+        font-size: 20px;
+    }
+     #para-detail-two > p{
+        font-size: 10px;
+    }
+    #para-p-two > p{
+        font-size: 13px;
+    }
+    #blog-1 > img{
+        width: 300px;
+        height: 200px;
+    }
+    #para-4 > p{
+        width: 80%;
+    }
+  
+    #main-area{
+        padding-right: 200px;
+    }
+    #end-para > p{
+        text-align: center;
+  margin-left: 440px;
+  padding-top: 10px;
+    }
+    #icon-box-bar{
+        margin-left: 360px;
+    }
+    #footer-container{
+        padding: 50px 100px;
+    }
+    #image-logo-box > p{
+        font-size: 15px;
+    }
+    #home > h1{
+        font-size: 20px;
+    }
+     #home > a{
+        font-size: 15px;
+     }
+     #donation > h1{
+        font-size: 20px;
+     }
+     #donation > a{
+        font-size: 20px;
+     }
+     #contact > h1{
+        font-size: 20px;
+     }
+       #contact > a{
+        font-size: 15px;
+       }
+       #last-line > p{
+        font-size: 15px;
+       }
+         #para-parent{
+            width: 20%;
+         }
+       #para-parent > p{
+        font-size: 15px;
+       }
+}
